@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.Android\\DevsDNA.Application.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.Android\\DevsDNA.Application.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.Android\\DevsDNA.Application.Android.csproj",
+        "projectName": "DevsDNA.Application.Android",
+        "projectPath": "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.Android\\DevsDNA.Application.Android.csproj",
+        "packagesPath": "C:\\Users\\sbm_deni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbm_deni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {
+              "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.csproj": {
+                "projectPath": "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "Com.Airbnb.Xamarin.Forms.Lottie": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "ReactiveUI.XamForms": {
+              "target": "Package",
+              "version": "[11.4.17, )"
+            },
+            "Sharpnado.Shadows": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.AndroidX.AppCompat.Resources": {
+              "target": "Package",
+              "version": "[1.1.0.1, )"
+            },
+            "Xamarin.AndroidX.Preference": {
+              "target": "Package",
+              "version": "[1.1.1.1, )"
+            },
+            "Xamarin.Azure.NotificationHubs.Android": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Firebase.Messaging": {
+              "target": "Package",
+              "version": "[71.1740.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.7.0.968, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.csproj",
+        "projectName": "DevsDNA.Application",
+        "projectPath": "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application.csproj",
+        "packagesPath": "C:\\Users\\sbm_deni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sbm_deni\\Desktop\\DevsDNA-Application-main\\DevsDNA.Application\\DevsDNA.Application\\DevsDNA.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sbm_deni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Com.Airbnb.Xamarin.Forms.Lottie": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.24, )"
+            },
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Microsoft.AppCenter.Distribute": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Mobile.BuildTools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.4.0.638, )"
+            },
+            "ReactiveUI.XamForms": {
+              "target": "Package",
+              "version": "[11.4.17, )"
+            },
+            "Sharpnado.Shadows": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "System.ServiceModel.Syndication": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.7.0.968, )"
+            },
+            "Xamarin.Plugin.SharedTransitions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "refit": {
+              "target": "Package",
+              "version": "[5.1.67, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
